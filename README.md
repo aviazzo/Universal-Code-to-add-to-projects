@@ -2,7 +2,7 @@
 This code that can be used between different projects to start and stop code through the Serial Monitor
 
 ## Steps
-###1) Add Library
+### 1) Add Library
   #include "RunControl.h"
 
 ### 2) Add to setup section
